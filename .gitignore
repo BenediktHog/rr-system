@@ -44,5 +44,6 @@ rr-system.iml
 rr-server/rr-server.iml
 rr-ui/rr-ui.iml
 rr-ui/src/main/webapp/node
+rr-ui/src/main/webapp/package-lock.json
 rr-server/target/
 rr-ui/target/
