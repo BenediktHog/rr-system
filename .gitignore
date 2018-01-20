@@ -43,3 +43,6 @@ Thumbs.db
 rr-system.iml
 rr-server/rr-server.iml
 rr-ui/rr-ui.iml
+rr-ui/src/main/webapp/node
+rr-server/target/
+rr-ui/target/
